@@ -17,7 +17,7 @@ def scrape(url):
             title = a.split(">")[1].split("</")[0].strip()
             print(f"{index}. {title}")
             index += 1
-        except:
+        except Exception: 
             pass
     print()
 
