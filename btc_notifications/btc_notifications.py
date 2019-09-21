@@ -4,7 +4,7 @@ import time
 
 BTC_API_URL = 'https://api.coinmarketcap.com/v1/ticker/bitcoin/'
 IFTTT_WEBHOOKS_URL = 'https://maker.ifttt.com/trigger/bitcoin_price_emergency/with/key/eVhhWNGPuKX5G1z77llTDPCr5yTxsMmF-pcDUUgXuPn'
-BTC_PRICE_UPPER_LIMIT = 10000
+BTC_PRICE_UPPER_LIMIT = 15000
 BTC_PRICE_LOWER_LIMIT = 5000
 
 
