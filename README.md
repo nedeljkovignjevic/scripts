@@ -7,6 +7,9 @@ Bitcoin price notification service that uses **IFTTT** and webhooks for connecti
 ## calculate
 Calculates exactly how many days are left until a certain date. 
 
+## files_organizer
+Description will be added
+
 ## rt_scraper
 Gets the best rated movies (100 movies) of last 3 years from Rotten Tomatoes website and shows them in specific form. 
 
