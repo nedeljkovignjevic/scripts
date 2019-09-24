@@ -1,4 +1,4 @@
-# My scripts (mostly python)
+# scripts
 Scripts that are useful to me and which i made for fun.
 
 ## btc_notifications
