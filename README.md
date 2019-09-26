@@ -9,11 +9,12 @@ Calculates exactly how many days are left until a certain date.
 
 ## files_organizer
 Organizing files by specific categories:
-- Audio: '.aif', '.cda', '.mid', '.midi', '.mp3', '.mpa', '.ogg', '.wav', '.wma', '.wpl', '.m3u'
 - Text: '.txt', '.doc', '.docx', '.odt ', '.pdf', '.rtf', '.tex', '.wks ', '.wps', '.wpd'
+- Audio: '.aif', '.cda', '.mid', '.midi', '.mp3', '.mpa', '.ogg', '.wav', '.wma', '.wpl', '.m3u'
 - Video: '.3g2', '.3gp', '.avi', '.flv', '.h264', '.m4v', '.mkv', '.mov', '.mp4', '.mpg', '.mpeg', '.rm', '.swf', '.vob', '.wmv'
 - Images: '.ai', '.bmp', '.gif', '.ico', '.jpg', '.jpeg', '.png', '.ps', '.psd', '.svg', '.tif', '.tiff', '.CR2'
 - Compressed: '.7z', '.arj', '.deb', '.pkg', '.rar', '.rpm', '.tar.gz', '.z', '.zip'
+- Data: '.csv', '.dat', '.db', '.dbf', '.log', '.mdb', '.sav', '.sql', '.tar', '.xml'
 - Disc: '.bin', '.dmg', '.iso', '.toast', '.vcd'
 - Programming: '.c', '.class', '.dart', '.py', '.sh', '.swift', '.html', '.h', '.java', '.kt'
 
