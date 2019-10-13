@@ -25,9 +25,9 @@ def scrape(url):
 if __name__ == "__main__":
 
     urls = [
-        "https://www.rottentomatoes.com/top/bestofrt/?year=2016",
         "https://www.rottentomatoes.com/top/bestofrt/?year=2017",
         "https://www.rottentomatoes.com/top/bestofrt/?year=2018",
+        "https://www.rottentomatoes.com/top/bestofrt/?year=2019"
     ]
 
     for url in urls:
