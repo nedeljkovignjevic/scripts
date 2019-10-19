@@ -25,4 +25,4 @@ Gets the best rated movies (100 movies) of last 3 years from Rotten Tomatoes web
 
 ## Licence
 All scripts are free.\
-You can redistribute it and change it under the terms of **GNU General Public License version 3.0** (GPLv3).
+You can redistribute them and change them under the terms of **GNU General Public License version 3.0** (GPLv3).
